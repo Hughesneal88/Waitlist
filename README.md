@@ -45,4 +45,4 @@ You will need to connect a mongo database. To do that:
 1. Create a new mongodb account
 2. Create a database on the website
 3. Copy the connection string
-4. Put the connection string in `server/.env`
+4. Put the connection string in `server/.env` as `MONGO_URI=CONNECTION-STRING`
